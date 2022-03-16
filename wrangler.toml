@@ -1,0 +1,8 @@
+name = "wordle-generator"
+type = "javascript"
+
+workers_dev = true
+account_id = "19c4bc592477d8e5dc50cd682df15728"
+route = ""
+zone_id = "221385f65d15b16d134b8f16d51405c5"
+compatibility_date = "2022-03-07"
